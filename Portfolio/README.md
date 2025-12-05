@@ -11,11 +11,11 @@
 - Contact  
 
 ## Screenshots: 
-![Experience](../portfolio/public/experience.jpg)  
-![Skills](../portfolio/public/skills.jpg)  
-![Projects](../portfolio/public/project.jpg)  
-![Projects1](../portfolio/public/project1.jpg)  
-![Contact](../portfolio/public/contact.jpg)
+![Experience](../Portfolio/public/experience.jpg)  
+![Skills](../Portfolio/public/skills.jpg)  
+![Projects](../Portfolio/public/project.jpg)  
+![Projects1](../Portfolio/public/project1.jpg)  
+![Contact](../Portfolio/public/contact.jpg)
 
 ## Commands to run:
 - npm install  

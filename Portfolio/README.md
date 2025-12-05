@@ -1,6 +1,6 @@
 <h1 align="center">Portfolio Website</h1>
 
-![Introduction](../portfolio/public/introduction.jpg)
+![Introduction](../Portfolio/public/introduction.jpg)
 
 ## Sections Included:
 - Introduction  
